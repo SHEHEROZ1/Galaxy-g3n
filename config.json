@@ -1,12 +1,12 @@
 {
-    "status": "SUBSCRIBE TO SCIENCE GEAR",
+    "status": "YOU THANKS TO SHEHEROZ",
     "prefix": "gr!",
-    "genChannel": "0000000000000000000",
-    "pgenChannel": "0000000000000000000",  
+    "genChannel": "1296494562885243052",
+    "pgenChannel": "1296494681424662698",  
     "genCooldown": "120000",
     "genCooldownsec": "600",
-    "pgenrole": "role_id",
-    "freegenrole": "role_id",
+    "pgenrole": "1297207739465863178",
+    "freegenrole": "1297207542803337268",
     "stocker": "role_id",
     "gifurl": "https://cdn.discordapp.com/attachments/1112975745212489808/1116032447197491361/standard.gif",
     "color": {
